@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549209798059",
+    "project_id": "fir-flutter-demo-ce42e",
+    "storage_bucket": "fir-flutter-demo-ce42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549209798059:android:b68035a43dded94b224eee",
+        "android_client_info": {
+          "package_name": "com.rensa.firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549209798059-t90vmdabfapid0gjc15c5eb5cdvntstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZPygfJiViXllhe6AiGcQNWImAv-QQk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549209798059-t90vmdabfapid0gjc15c5eb5cdvntstl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
